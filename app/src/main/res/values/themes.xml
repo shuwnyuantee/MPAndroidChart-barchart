@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BarChart" parent="@style/AppTheme">
+        <item name="themeName">light</item>
+
+        <item name="color1">@color/color_1</item>
+        <item name="color2">@color/color_2</item>
+        <item name="color3">@color/color_3</item>
+
+        <item name="lightGreyColor">@color/light_grey</item>
+
+        <item name="secondaryTextColor">@color/secondary_text_color</item>
+
+    </style>
+
+</resources>

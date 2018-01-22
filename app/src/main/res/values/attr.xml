@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="themeName" format="string" />
+
+    <attr name="color1" format="color" />
+    <attr name="color2" format="color" />
+    <attr name="color3" format="color" />
+
+    <attr name="lightGreyColor" format="color" />
+
+    <attr name="secondaryTextColor" format="color" />
+
+</resources>
+
