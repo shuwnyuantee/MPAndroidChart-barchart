@@ -1,9 +1,10 @@
-*.iml
+
+syntax: glob
+
 .gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
+.idea
+build
+local.properties
+*.iml
+*.orig
+*.swp`
