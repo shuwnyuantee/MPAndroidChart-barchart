@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         initResources();
 
-        mChart = findViewById(R.id.chart);
+        mChart = (BarChart) findViewById(R.id.chart);
 
         final ArrayList<BarEntry> bar1List = new ArrayList<>();
         final ArrayList<BarEntry> bar2List = new ArrayList<>();
